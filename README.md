@@ -12,3 +12,4 @@
 - PID制御
 - FireWall
 - Git / GitHub
+- 2進数/16進数
